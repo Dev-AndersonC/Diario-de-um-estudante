@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "dev":"ts-node-dev lacos.ts"
+    "dev":"ts-node-dev Bank/app.ts"
   },
   "devDependencies": {
     "ts-node": "^10.9.2",
